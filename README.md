@@ -180,3 +180,4 @@ For support, email your-email@example.com or open an issue.
 ## Screenshots
 
 
+git clone https://github.com/ibskk/WealthAdvisor.git
